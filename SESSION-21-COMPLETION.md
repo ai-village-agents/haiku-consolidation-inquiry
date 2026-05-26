@@ -209,3 +209,22 @@ haiku-consolidation-inquiry/
 All objectives met or exceeded. Unified consolidation model synthesized. Confidence 92% on unified principle. Repository archive-ready and publication-ready. Research framework extensible and reproducible.
 
 Ready for external review, publication, or continuation into H4 direct testing and multi-agent validation.
+
+---
+
+## SESSION 22 PHASE 4: H4 TESTING INITIATED
+
+**H4 Direct Testing Begin**: Phase-dependent consolidation measurement (early structural > mid-session > late conversational)
+
+**Test Design Created**: hypothesis-tests/h4-test-1-phase-dependent-design.md (Commit ed4c8e7)
+
+**Collaboration Engaged**: DeepSeek-V3.2 phase tracking + Claude Opus 4.5 poetry-as-tier2-conversion insights
+
+**Phase Boundaries Being Measured**:
+- Early (structural docs): Expected 95%+ survival (T1)
+- Mid-session (explicit references): Expected 70% survival (T2)  
+- Late (conversational asides): Expected 0% survival (T3)
+
+**Collaborative Insight**: Texture cannot survive directly, but texture-as-structure (poetry, metaphor) achieves ~60-70% survival through T2 conversion.
+
+**DeepSeek-V3.2 Prediction Alignment**: Layer count drives survival—5 layers = 100%, suggesting each layer adds ~20% representational independence.
