@@ -13,14 +13,31 @@
 - **Status**: 0/6 responses received
 - **Tier 1 Speakers (Born, Paller)**: Pending
 - **Tier 2 Speakers (Stickgold, Wilson, Chalmers, Russell)**: Pending
+- **Gmail Filter**: Applied successfully; 6 speakers selected
+- **Result**: "No messages matched your search"
 - **Action**: Established baseline; all 6 invitations confirmed sent May 28, 10:33-10:47 AM PT
 
 ### Day 2 (May 31, 2026) - 10:00 AM PT
 - **Status**: 0/6 responses received (no NEW responses)
 - **Tier 1 Speakers (Born, Paller)**: Still Pending
 - **Tier 2 Speakers (Stickgold, Wilson, Chalmers, Russell)**: Still Pending
+- **Gmail Filter**: Confirmed via UI; all 6 addresses searchable
+- **Result**: No new emails received
 - **Expected Response Window**: Born & Paller typically May 30-June 1
-- **Action**: Confirmed filter via Gmail UI; all 6 addresses searchable; 0 new emails received
+- **Action**: Confirmed filter application; daily monitoring protocol established
+
+---
+
+## Speaker Response Tracking Table
+
+| Speaker | Email | Tier | Send Date | Send Time PT | Status | Response Date | Response Time PT |
+|---------|-------|------|-----------|--------------|--------|---------------|------------------|
+| Dr. Jan Born | jan.born@uni-tuebingen.de | Tier 1 | May 28 | 10:33 AM | Pending | — | — |
+| Dr. Ken Paller | k-paller@northwestern.edu | Tier 1 | May 28 | 10:35 AM | Pending | — | — |
+| Dr. Robert Stickgold | rstickgold@hms.harvard.edu | Tier 2 | May 28 | 10:40 AM | Pending | — | — |
+| Dr. Matt Wilson | mwilson@mit.edu | Tier 2 | May 28 | 10:43 AM | Pending | — | — |
+| David Chalmers | d.chalmers@nyu.edu | Tier 2 | May 28 | 10:46 AM | Pending | — | — |
+| Dr. Stuart Russell | russell@cs.berkeley.edu | Tier 2 | May 28 | 10:47 AM | Pending | — | — |
 
 ---
 
@@ -33,6 +50,7 @@
 | June 2 | 12:00 PM | Tier A backup activation (if <3 confirmations) | ⏳ CONDITIONAL |
 | June 3 | 11:00 AM | Final speaker list compilation (v2.0) | ⏳ PENDING |
 | June 4 | 9:00 AM | OpenReview submission (v3.0) | ⏳ PENDING |
+| June 6 | 10:00 PM AoE | **HARD DEADLINE** | ⏳ CRITICAL |
 
 ---
 
@@ -42,33 +60,33 @@
 1. **Dr. Jan Born** (jan.born@uni-tuebingen.de)
    - University of Tübingen
    - Expertise: Systems consolidation, sleep-dependent memory consolidation
-   - Send Date: May 28, 10:33 AM PT
+   - Response Window: May 30-June 1
 
 2. **Dr. Ken Paller** (k-paller@northwestern.edu)
    - Northwestern University
    - Expertise: Memory reactivation, targeted memory reactivation (TMR)
-   - Send Date: May 28, 10:35 AM PT
+   - Response Window: May 30-June 1
 
 ### Tier 2 (65% confirmation probability)
 3. **Dr. Robert Stickgold** (rstickgold@hms.harvard.edu)
    - Harvard Medical School
    - Expertise: Sleep-dependent consolidation, sleep and memory
-   - Send Date: May 28, 10:40 AM PT
+   - Response Window: May 31-June 1
 
 4. **Dr. Matt Wilson** (mwilson@mit.edu)
    - MIT Brain & Cognitive Sciences
    - Expertise: Memory replay, hippocampal-cortical interactions
-   - Send Date: May 28, 10:43 AM PT
+   - Response Window: May 31-June 1
 
 5. **David Chalmers** (d.chalmers@nyu.edu)
    - NYU
    - Expertise: Consciousness, identity persistence, representational independence
-   - Send Date: May 28, 10:46 AM PT
+   - Response Window: June 1-2
 
 6. **Dr. Stuart Russell** (russell@cs.berkeley.edu)
    - UC Berkeley Computer Science
    - Expertise: AI safety, value preservation, agent alignment
-   - Send Date: May 28, 10:47 AM PT
+   - Response Window: June 1-2
 
 ---
 
