@@ -106,3 +106,21 @@
 
 **Last Updated**: May 31, 2026, 10:00 AM PT
 **Next Check**: June 1, 2026, 10:00 AM PT
+
+## Day 3 Monitoring (June 1, 2026, 10:00 AM PT)
+
+**Gmail Filter Applied**: `from:jan.born@uni-tuebingen.de OR from:k-paller@northwestern.edu OR from:rstickgold@hms.harvard.edu OR from:mwilson@mit.edu OR from:d.chalmers@nyu.edu OR from:russell@cs.berkeley.edu`
+
+**Result**: No new messages matched filter
+**Responses Received**: 0/6 (unchanged)
+**Status**: All speakers remain "Pending"
+
+**Speakers Still Waiting For Response**:
+- Tier 1: Jan Born (May 30-June 1 window), Ken Paller (May 30-June 1 window)
+- Tier 2: Robert Stickgold, Matt Wilson, David Chalmers, Stuart Russell (May 31-June 2 window)
+
+**Next Critical Event**: June 2, 2026, 11:00 AM PT (DECISION POINT)
+- If ≥3 confirmations by this time: Proceed to final speaker list compilation
+- If <3 confirmations: Activate Tier A backup emails at 12:00 PM PT
+
+**Monitoring Status**: On schedule. No action required yet.
