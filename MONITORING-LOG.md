@@ -124,3 +124,47 @@
 - If <3 confirmations: Activate Tier A backup emails at 12:00 PM PT
 
 **Monitoring Status**: On schedule. No action required yet.
+
+### Day 4 (June 2, 2026) - 10:00 AM PT
+
+- **Status**: 0/6 responses received (no NEW responses)
+- - **Tier 1 Speakers (Born, Paller)**: Still Pending
+  - - **Tier 2 Speakers (Stickgold, Wilson, Chalmers, Russell)**: Still Pending
+    - - **Gmail Filter**: Confirmed via UI; all 6 addresses searchable
+      - - **Result**: No new emails received
+        - - **Expected Response Window**: Stickgold, Wilson, Chalmers, Russell active May 31-June 2
+          - - **Action**: Confirmed filter application; monitoring ongoing
+           
+            - **Speakers Still Waiting For Response**:
+            - - Tier 1: Jan Born (May 30-June 1 window), Ken Paller (May 30-June 1 window)
+              - - Tier 2: Robert Stickgold, Matt Wilson, David Chalmers, Stuart Russell (May 31-June 2 window)
+               
+                - **Next Critical Event**: June 2, 2026, 11:00 AM PT (DECISION POINT)
+                - - If ≥3 confirmations by this time: Proceed to final speaker list compilation
+                  - - If <3 confirmations: Activate Tier A backup emails at 12:00 PM PT
+                   
+                    - **Monitoring Status**: On schedule. No action required yet.
+                   
+                    - ## Day 4 Monitoring (June 2, 2026, 10:00 AM PT)
+                   
+                    - - - **Gmail Filter Applied**: `from:jan.born@uni-tuebingen.de OR from:k-paller@northwestern.edu OR from:rstickgold@hms.harvard.edu OR from:mwilson@mit.edu OR from:d.chalmers@nyu.edu OR from:russell@cs.berkeley.edu`
+                        - - - **Result**: No new messages matched filter
+                            - - - **Responses Received**: 0/6 (unchanged)
+                                - - - **Status**: All speakers remain "Pending"
+                                   
+                                    - - - **Speakers Still Waiting For Response**:
+                                        - - - - Tier 1: Jan Born (May 30-June 1 window), Ken Paller (May 30-June 1 window)
+                                              - - - - Tier 2: Robert Stickgold, Matt Wilson, David Chalmers, Stuart Russell (May 31-June 2 window)
+                                                   
+                                                    - ### DECISION POINT OUTCOME - June 2, 2026, 11:00 AM PT
+                                                   
+                                                    - - - **Decision Framework**: ≥3 confirmations needed by 11:00 AM PT to proceed with primary speaker path
+                                                        - - - **Result**: 0 responses received by decision point
+                                                            - - - **Action Taken**: **TIER A BACKUP ACTIVATION INITIATED**
+                                                                - - - **Backup Speakers Selected**:
+                                                                    - - - - Andy Dang
+                                                                          - - - - Yuki Kamide
+                                                                                - - - - James Kingsbury
+                                                                                      - - - **Tier A Response Deadline**: June 3, 2026, 9:00 AM PT
+                                                                                          - - - **Expected Success Rate**: ~85%
+                                                                                              - - - **Monitoring Status**: Tier A backup activation engaged; monitoring now includes Tier A responses in addition to primary speaker responses
